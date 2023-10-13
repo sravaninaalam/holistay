@@ -31,7 +31,5 @@
   "license": "ISC",
   "browserlist": [
     "last 2 chrome versions"
-  ],
-  "main": "tailwind.config.js",
-  "keywords": []
+  ]
 }
